@@ -7,7 +7,7 @@
 - **Front-end**: HTML, CSS, JavaScript, Thymeleaf
 - **Database**: Oracle
 - **Tools**: Git, GitHub, VS Code, Linux, AWS 
-- 
+
 📌 Projects
 
 

@@ -1,4 +1,12 @@
-## 안녕하세요! 저는 박혜원입니다. 👋
+## 안녕하세요! 신입 백엔드 개발자 박혜원입니다. 👋
+맡은 일에는 끈기있게 어떻게든 해내고자 하는 책임감 있는 모습을 보여드리겠습니다.
+
+💡 Tech Stack
+
+📌 Projects
+
+
+
 
 <!--
 **ParkHM97/ParkHM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

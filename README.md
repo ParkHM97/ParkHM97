@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요! 저는 박혜원입니다. 👋
 
 <!--
 **ParkHM97/ParkHM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

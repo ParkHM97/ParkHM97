@@ -63,7 +63,7 @@
 - 👤 **사원/근태 관리** : 출퇴근 기록, 연차 신청, 인사정보 관리, 다면평가 
 - 🗃️ **자료실** : 부서별 문서 공유 및 다운로드  
 
- 링크: [🔗 GitHub] https://github.com/whddn/WorkMate
+ 링크: [🔗 GitHub] (https://github.com/whddn/WorkMate)
 
 
 

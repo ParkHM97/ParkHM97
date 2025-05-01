@@ -70,7 +70,7 @@
 - 👤 **사원/근태 관리** : 출퇴근 기록, 연차 신청, 인사정보 관리, 다면평가  
 - 🗃️ **자료실** : 부서별 문서 공유 및 다운로드  
 
-[🔗 workmate GitHub 바로가기](https://github.com/whddn/WorkMate)
+[🔗 workmate GitHub 바로가기](https://github.com/whddn/WorkMate.git)
 
 
 
@@ -106,7 +106,7 @@
 - 👤 **후기 & 문의** : 상품별 후기 등록, 문의 작성하고 답변 확인 가능   
 - 🗃️ **검색** : 상품을 필터링하여 검색하고 최근 검색어 5개 확인 가능 
 
-[🔗 workmate GitHub 바로가기](https://github.com/whddn/WorkMate)
+[🔗 Tepang GitHub 바로가기](https://github.com/immipis/tepang.git)
 
 
 

@@ -3,6 +3,11 @@
 
 💡 Tech Stack
 
+- **Back-end**: Java, JSP, Spring, Spring Boot, MyBatis, Docker, Jenkins 
+- **Front-end**: HTML, CSS, JavaScript, Thymeleaf
+- **Database**: Oracle
+- **Tools**: Git, GitHub, VS Code, Linux, AWS 
+- 
 📌 Projects
 
 
